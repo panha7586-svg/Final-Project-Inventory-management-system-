@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "65ccd734-c49a-4308-92d6-c04c9508ba6e",
+    "username": "admin",
+    "password_hash": "8cb12d54ced1c890c0d6025284521526b7a48faf250f71c01c4ba50bbe8e38f1",
+    "salt": "6c8073b1ea24554c6cd0a491ad3d7d51",
+    "role": "Admin",
+    "active": true,
+    "created_at": "2026-09-15T18:29:47"
+  },
+  {
+    "user_id": "904bf7de-d3f4-4816-ae4f-85d7a288c1aa",
+    "username": "Sale Team",
+    "password_hash": "83d62344f9a33c68e2577e2928497ebb2e69c5293c3005876972f8b983733337",
+    "salt": "9575d1f832da8ae1556f8d6ab1b4578c",
+    "role": "Staff",
+    "active": true,
+    "created_at": "2026-09-17T09:01:18"
+  },
+  {
+    "user_id": "1fae394b-0072-4479-b526-c979237ba2c1",
+    "username": "Somnang",
+    "password_hash": "04f2c61a870b73e99613d7615aa4e4953edd7b88e0ec89247f6c8df92578c9d8",
+    "salt": "10a0bd75c82aac983f80b278a7e6b3e2",
+    "role": "Staff",
+    "active": true,
+    "created_at": "2026-09-17T09:09:24"
+  }
+]

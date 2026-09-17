@@ -1,0 +1,4 @@
+rich>=13.0
+Tabulate>=0.9
+pytest>=8.0
+python-dotenv>=1.0

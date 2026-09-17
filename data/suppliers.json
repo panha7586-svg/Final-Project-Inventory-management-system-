@@ -1,0 +1,172 @@
+[
+  {
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "name": "Dell Official Store",
+    "contact_person": "Dell Official Branch Store",
+    "phone": "+1-800-555-0101",
+    "email": "branch.store@dell.com",
+    "address": "Dell Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-HP-OFFICIAL",
+    "name": "HP Official Store",
+    "contact_person": "HP Official Branch Store",
+    "phone": "+1-800-555-0102",
+    "email": "branch.store@hp.com",
+    "address": "HP Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-LENOVO-OFFICIAL",
+    "name": "Lenovo Official Store",
+    "contact_person": "Lenovo Official Branch Store",
+    "phone": "+1-800-555-0103",
+    "email": "branch.store@lenovo.com",
+    "address": "Lenovo Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-APPLE-OFFICIAL",
+    "name": "Apple Official Store",
+    "contact_person": "Apple Official Branch Store",
+    "phone": "+1-800-555-0104",
+    "email": "branch.store@apple.com",
+    "address": "Apple Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-ASUS-OFFICIAL",
+    "name": "ASUS Official Store",
+    "contact_person": "ASUS Official Branch Store",
+    "phone": "+1-800-555-0105",
+    "email": "branch.store@asus.com",
+    "address": "ASUS Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-ACER-OFFICIAL",
+    "name": "Acer Official Store",
+    "contact_person": "Acer Official Branch Store",
+    "phone": "+1-800-555-0106",
+    "email": "branch.store@acer.com",
+    "address": "Acer Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-MICROSOFT-OFFICIAL",
+    "name": "Microsoft Official Store",
+    "contact_person": "Microsoft Official Branch Store",
+    "phone": "+1-800-555-0107",
+    "email": "branch.store@microsoft.com",
+    "address": "Microsoft Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-MSI-OFFICIAL",
+    "name": "MSI Official Store",
+    "contact_person": "MSI Official Branch Store",
+    "phone": "+1-800-555-0108",
+    "email": "branch.store@msi.com",
+    "address": "MSI Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-SAMSUNG-OFFICIAL",
+    "name": "Samsung Official Store",
+    "contact_person": "Samsung Official Branch Store",
+    "phone": "+1-800-555-0109",
+    "email": "branch.store@samsung.com",
+    "address": "Samsung Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-RAZER-OFFICIAL",
+    "name": "Razer Official Store",
+    "contact_person": "Razer Official Branch Store",
+    "phone": "+1-800-555-0110",
+    "email": "branch.store@razer.com",
+    "address": "Razer Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-GOOGLE-OFFICIAL",
+    "name": "Google Official Store",
+    "contact_person": "Google Official Branch Store",
+    "phone": "+1-800-555-0111",
+    "email": "branch.store@google.com",
+    "address": "Google Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-ONEPLUS-OFFICIAL",
+    "name": "OnePlus Official Store",
+    "contact_person": "OnePlus Official Branch Store",
+    "phone": "+1-800-555-0112",
+    "email": "branch.store@oneplus.com",
+    "address": "OnePlus Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-XIAOMI-OFFICIAL",
+    "name": "Xiaomi Official Store",
+    "contact_person": "Xiaomi Official Branch Store",
+    "phone": "+1-800-555-0113",
+    "email": "branch.store@xiaomi.com",
+    "address": "Xiaomi Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-SONY-OFFICIAL",
+    "name": "Sony Official Store",
+    "contact_person": "Sony Official Branch Store",
+    "phone": "+1-800-555-0114",
+    "email": "branch.store@sony.com",
+    "address": "Sony Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-MOTOROLA-OFFICIAL",
+    "name": "Motorola Official Store",
+    "contact_person": "Motorola Official Branch Store",
+    "phone": "+1-800-555-0115",
+    "email": "branch.store@motorola.com",
+    "address": "Motorola Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-OPPO-OFFICIAL",
+    "name": "OPPO Official Store",
+    "contact_person": "OPPO Official Branch Store",
+    "phone": "+1-800-555-0116",
+    "email": "branch.store@oppo.com",
+    "address": "OPPO Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  },
+  {
+    "supplier_id": "SUP-NOKIA-OFFICIAL",
+    "name": "Nokia Official Store",
+    "contact_person": "Nokia Official Branch Store",
+    "phone": "+1-800-555-0117",
+    "email": "branch.store@nokia.com",
+    "address": "Nokia Official Branch Store",
+    "active": true,
+    "created_at": "2026-09-16T00:00:00"
+  }
+]

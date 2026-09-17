@@ -1,0 +1,21 @@
+name,sku,category,quantity,cost_price,selling_price,reorder_level
+Logitech MX Master 3S,A-LOGITECH-MX3S,Accessory,50,65.00,99.99,10
+Logitech M185 Wireless Mouse,A-LOGITECH-M185,Accessory,50,12.00,19.99,10
+Microsoft Modern Mobile Mouse,A-MICROSOFT-MOBILE,Accessory,50,20.00,34.99,10
+Razer DeathAdder Essential,A-RAZER-DEATHADDER,Accessory,50,25.00,39.99,10
+Razer Basilisk V3,A-RAZER-BASILISK,Accessory,50,45.00,69.99,10
+HP 150 Wireless Mouse,A-HP-150,Accessory,50,10.00,17.99,10
+Dell WM126 Wireless Mouse,A-DELL-WM126,Accessory,50,14.00,24.99,10
+Apple Magic Mouse,A-APPLE-MAGIC-MOUSE,Accessory,50,65.00,99.99,10
+ASUS Marshmallow Mouse MD100,A-ASUS-MD100,Accessory,50,20.00,34.99,10
+Lenovo Go Wireless Vertical Mouse,A-LENOVO-VERTICAL,Accessory,50,35.00,54.99,10
+Logitech K380 Bluetooth Keyboard,A-LOGITECH-K380,Accessory,50,35.00,49.99,10
+Microsoft Bluetooth Keyboard,A-MICROSOFT-KEYBOARD,Accessory,50,30.00,44.99,10
+Keychron K2 Wireless Keyboard,A-KEYCHRON-K2,Accessory,50,60.00,89.99,10
+Razer BlackWidow V3 Keyboard,A-RAZER-BLACKWIDOW,Accessory,50,75.00,119.99,10
+Dell KB216 Wired Keyboard,A-DELL-KB216,Accessory,50,15.00,24.99,10
+Logitech C920 HD Webcam,A-LOGITECH-C920,Accessory,50,55.00,79.99,10
+Anker USB-C Hub 7-in-1,A-ANKER-USBHUB,Accessory,50,35.00,59.99,10
+Samsung T7 Portable SSD 1TB,A-SAMSUNG-T7,Accessory,50,75.00,109.99,10
+Belkin USB-C Charger 65W,A-BELKIN-65W,Accessory,50,30.00,49.99,10
+JBL Tune 510BT Headphones,A-JBL-TUNE510,Accessory,50,25.00,39.99,10

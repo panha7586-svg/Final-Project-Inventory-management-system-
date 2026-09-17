@@ -1,0 +1,90 @@
+[
+  {
+    "transaction_id": "b83532d4-3e53-44c9-a605-503646afb162",
+    "product_id": "L-Dell",
+    "tx_type": "STOCK_OUT",
+    "quantity": 90,
+    "unit_price": 799.99,
+    "supplier_id": null,
+    "performed_by": "admin",
+    "note": "Order From Gold One Store",
+    "timestamp": "2026-09-16T12:40:27"
+  },
+  {
+    "transaction_id": "1f68090b-b067-47ca-9e84-292fdeae19d7",
+    "product_id": "L-Dell",
+    "tx_type": "PURCHASE",
+    "quantity": 90,
+    "unit_price": 650.0,
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "performed_by": "admin",
+    "note": "reorder",
+    "timestamp": "2026-09-16T12:50:27"
+  },
+  {
+    "transaction_id": "702137ea-3d3f-4aa7-8c81-62ac69928e62",
+    "product_id": "L-Dell",
+    "tx_type": "STOCK_IN",
+    "quantity": 50,
+    "unit_price": 650.0,
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "performed_by": "admin",
+    "note": "Reorder",
+    "timestamp": "2026-09-17T09:48:03"
+  },
+  {
+    "transaction_id": "9142e1a0-0def-4968-bf9c-099a04f1847e",
+    "product_id": "L-Dell",
+    "tx_type": "STOCK_OUT",
+    "quantity": 145,
+    "unit_price": 799.99,
+    "supplier_id": null,
+    "performed_by": "admin",
+    "note": "Sell to Gold PC Store",
+    "timestamp": "2026-09-17T09:48:52"
+  },
+  {
+    "transaction_id": "dbe62436-6563-4fa4-9d3d-9e1c854b7430",
+    "product_id": "L-Dell",
+    "tx_type": "PURCHASE",
+    "quantity": 145,
+    "unit_price": 600.0,
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "performed_by": "admin",
+    "note": "Reorder",
+    "timestamp": "2026-09-17T09:49:44"
+  },
+  {
+    "transaction_id": "05db7ae1-1f5d-4f92-9730-44bcd843c9fb",
+    "product_id": "L-Dell",
+    "tx_type": "STOCK_IN",
+    "quantity": 50,
+    "unit_price": 600.0,
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "performed_by": "admin",
+    "note": "Reorder",
+    "timestamp": "2026-09-17T10:31:37"
+  },
+  {
+    "transaction_id": "6001a88a-42fc-41ac-8237-3113387643be",
+    "product_id": "L-Dell",
+    "tx_type": "STOCK_OUT",
+    "quantity": 50,
+    "unit_price": 799.99,
+    "supplier_id": null,
+    "performed_by": "admin",
+    "note": "Order from Gold PC store",
+    "timestamp": "2026-09-17T10:32:16"
+  },
+  {
+    "transaction_id": "1afb4182-3727-4848-afc2-491ea7edf4df",
+    "product_id": "L-Dell",
+    "tx_type": "PURCHASE",
+    "quantity": 50,
+    "unit_price": 650.0,
+    "supplier_id": "SUP-DELL-OFFICIAL",
+    "performed_by": "admin",
+    "note": "Repurchase",
+    "timestamp": "2026-09-17T10:33:36"
+  }
+]
